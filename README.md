@@ -23,6 +23,7 @@ Pin assignment:
 | SCLK      |  GPIO_0[2]  |   CLK     |
 | SS_n      |  GPIO_0[3]  |   CS'     |
 
-+3.3V\n
++3.3V
+
 GND
 
