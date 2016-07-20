@@ -22,8 +22,7 @@ Pin assignment:
 | MOSI      |  GPIO_0[1]  |   DIN     |
 | SCLK      |  GPIO_0[2]  |   CLK     |
 | SS_n      |  GPIO_0[3]  |   CS'     |
-| --------- | ----------- | --------- |
 
-+3.3V
++3.3V\n
 GND
 
