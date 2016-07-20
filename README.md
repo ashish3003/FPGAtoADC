@@ -17,10 +17,10 @@ Refer to fig. 6.1, page 18.
 Pin assignment:
 |Function  |	FPGA	 |	MCP3208  |
 ------------------------------------------
-| MISO     |  GPIO_0[0]  |       DOUT    |
-| MOSI     |  GPIO_0[1]  |       DIN     |
-| SCLK     |  GPIO_0[2]  |       CLK     |
-| SS_n     |  GPIO_0[3]  |       CS'     |
+|MISO     |  GPIO_0[0]  |       DOUT    |
+|MOSI     |  GPIO_0[1]  |       DIN     |
+|SCLK     |  GPIO_0[2]  |       CLK     |
+|SS_n     |  GPIO_0[3]  |       CS'     |
 ------------------------------------------
 +3.3V
 GND
